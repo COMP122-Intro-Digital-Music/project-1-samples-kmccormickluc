@@ -3,18 +3,18 @@
     "name": "keyboard1",
     "file": "keyboard1.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "2m"
   },
   {
     "name": "keyboard2",
     "file": "keyboard2.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "2m"
   },
   {
     "name": "drums",
     "file": "drums.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "2m"
   }
 ]
