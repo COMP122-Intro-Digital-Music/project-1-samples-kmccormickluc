@@ -1,19 +1,19 @@
 [
   {
     "name": "keyboard1",
-    "file": "samples_keyboard1.mp3",
+    "file": "keyboard1.mp3",
     "bpm": "120",
     "loop": "2m"
   },
   {
     "name": "keyboard2",
-    "file": "samples_keyboard2.mp3",
+    "file": "keyboard2.mp3",
     "bpm": "120",
     "loop": "2m"
   },
   {
     "name": "drums",
-    "file": "samples_drums.mp3",
+    "file": "drums.mp3",
     "bpm": "120",
     "loop": "2m"
   }
