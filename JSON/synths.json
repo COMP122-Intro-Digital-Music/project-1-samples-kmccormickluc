@@ -2,7 +2,7 @@
   {
     "name": "Synth1",
     "type": "lightersynth",
-    "settings": {
+    "settings": {}
       "detune": "3",
       "portamento": "0.5",
       "volume": "0.3",
@@ -28,7 +28,7 @@
   {
     "name": "Synth2",
     "type": "deepersynth",
-    "settings": {
+    "settings": {}
       "detune": "4",
       "portamento": "1.0",
       "volume": "0",
