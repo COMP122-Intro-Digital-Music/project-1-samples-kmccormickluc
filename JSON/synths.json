@@ -29,7 +29,7 @@
     "name": "deeper_synth",
     "type": "Synth",
     "settings": {
-      "detune": "4",
+      "detune": "1",
       "portamento": "1.0",
       "volume": "0",
       "oscillator": {
