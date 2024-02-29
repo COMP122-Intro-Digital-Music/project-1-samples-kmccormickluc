@@ -1,11 +1,11 @@
 [
   {
-    "name": "Synth 1",
-    "type": "Synth",
+    "name": "Synth1",
+    "type": "lightersynth",
     "settings": {
       "detune": "3",
       "portamento": "0.5",
-      "volume": "0",
+      "volume": "0.3",
       "oscillator": {
         "type": "custom",
         "phase": 0,
@@ -26,8 +26,8 @@
     }
   },
   {
-    "name": "Synth 2",
-    "type": "Synth",
+    "name": "Synth2",
+    "type": "deepersynth",
     "settings": {
       "detune": "4",
       "portamento": "1.0",
