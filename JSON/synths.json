@@ -40,9 +40,9 @@
       },
       "envelope": {
         "attack": "0.1",
-        "attackCurve": "linear",
+        "attackCurve": "exponential",
         "decay": "0.1",
-        "decayCurve": "linear",
+        "decayCurve": "exponential",
         "sustain": "0.5",
         "release": "1.5",
         "releaseCurve": "linear"
