@@ -1,1 +1,28 @@
-[ ]
+[
+  {
+    "name": "BeginningSequence",
+    "loop": "2:3:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:2:0.0",
+        "pitch": "C4",
+        "dur": "2m",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "SecondSequence",
+    "loop": "2:3:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "2:0:0.0",
+        "pitch": "D4",
+        "dur": "2n.",
+        "vel": "1"
+      }
+    ]
+  }
+]
